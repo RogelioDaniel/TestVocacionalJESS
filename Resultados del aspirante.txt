@@ -1,0 +1,85 @@
+===========================
+RESULTADOS DEL ASPIRANTE
+===========================
+FECHA: 27/11/2021
+HORA: 20:43:22
+===========================
+ASPIRANTE
+===========================
+Aspirante: sad, asd
+País: Andorra
+Sexo: Masculino
+Edad: 1
+===========================
+GUSTOS
+===========================
+===========================================
+Carreras administracion y contabilidad
+===========================================
+1. " ¿Sabés qué es el PBI?": false
+2. "¿Puedes establecer la diferencia conceptual entre macroeconomía y microeconomía?": false
+3. "¿Te gustaría realizar una investigación que contribuyera a hacer más justa la distribución de las riquezas?": false
+4. "¿Si una gran empresa solicita un profesional como gerente de comercialización, te sentirías a gusto desempeñando ese rol?": false
+5. "¿Te costearías tus estudios trabajando en una auditoría?": false
+6. "¿Aceptarías trabajar escribiendo artículos en la sección económica de un diario?": false
+7. "¿Dirigirías el área de importación y exportación de una empresa?": false
+8. "¿Si te convocara tu club preferido para planificar, organizar y dirigir un campo de deportes, aceptarías?": false
+9. "¿En un equipo de trabajo, preferís el rol de coordinador?": false
+10. "¿Te resultaría gratificante ser asesor contable en una empresa reconocida?": false
+===========================================
+Carreras de artes
+===========================================
+1. "¿Eres el que pone un toque de alegría en las fiestas?": false
+2. "¿Tolerarías empezar tantas veces como fuere necesario hasta obtener el logro deseado?": false
+3. "¿Cuando eliges tu ropa o decorás un ambiente, tienes en cuenta la combinación de los colores, las telas o el estilo de los muebles? ": false
+4. "¿Desearías que te regalen algún instrumento musical para tu cumpleaños?": false
+5. "¿Disfrutás modelando con arcilla?": false
+6. "¿Te atrae armar rompecabezas o puzzles": false
+7. "¿Te dedicarías a socorrer a personas accidentadas o atacadas por asaltantes?": false
+8. " ¿Te gustaría dirigir un proyecto de urbanización en tu provincia?": false
+9. " ¿Harías el diseño de una campaña contra el sida?": false
+10. "¿Fuera de los horarios escolares, dedicás algún día de la semana a la realización de actividades corporales?": false
+===========================================
+Carreras de ciencias exactas y agrarias
+===========================================
+1. "¿Visitarías un observatorio astronómico para conocer en acción el funcionamiento de los aparatos?": false
+2. "¿Te gustaría trabajar en un laboratorio mientras estudiás?": false
+3. "¿Sabrías responder que significa ADN y ARN?": false
+4. "¿Estás informado sobre los nuevos descubrimientos que se están realizando sobre la Teoría del Big-Bang?": false
+5. "¿Te atrae investigar sobre los misterios del universo, por ejemplo los agujeros negros?": false
+===========================================
+Carreras de defensa y seguridad
+===========================================
+1. " ¿Participarías en un grupo de defensa internacional dentro de alguna fuerza armada?": false
+2. "¿Aceptarías que las mujeres formaran parte de las fuerzas armadas bajo las mismas normas que los hombres?": false
+3. "¿Elegirías una profesión en la tuvieras que estar algunos meses alejado de tu familia, por ejemplo el marino?": false
+4. "¿Estás de acuerdo con la formación de un cuerpo de soldados profesionales?": false
+5. "¿Te dedicarías a socorrer a personas accidentadas o atacadas por asaltantes?": false
+6. " ¿Te gustaría realizar tareas auxiliares en una nave, como por ejemplo izado y arriado de velas, pintura y conservación del casco,arreglo de averías, conservación de motores, etc?": false
+7. "¿Participarías como profesional en un espectáculo de acrobacia aérea?": false
+8. " ¿Te interesan las actividades de mucha acción y de reacción rápida en situaciones imprevistas y de peligro?": false
+9. "¿Te gustaría participar para mantener el orden ante grandes desórdenes y cataclismos?": false
+===========================================
+Carreras de humanidad y sociales
+===========================================
+1. "¿Te ofrecerías para explicar a tus compañeros un determinado tema que ellos no entendieron?": true
+2. "¿Te interesan los temas relacionados al pasado y a la evolución del hombre?": true
+3. " ¿Te interesan las actividades de mucha acción y de reacción rápida en situaciones imprevistas y de peligro?": true
+4. "¿Te gratificaría el trabajar con niños?": true
+5. "¿Pasarías varias horas leyendo algún libro de tu interés?": true
+6. "¿Dedicarías parte de tu tiempo a ayudar a personas de zonas carenciadas?": false
+===========================================
+Carreras de ingenieria y computacion
+===========================================
+1. "¿Eres aficionado de los videojuegos?": false
+2. "¿Eres aficionado de los videojuegos?": false
+3. "¿Eres aficionado de los videojuegos?": false
+4. "¿Eres aficionado de los videojuegos?": false
+5. "¿Eres aficionado de los videojuegos?": false
+===========================================
+Carreras de medicina
+===========================================
+===========================
+Encuesta resultados
+===========================
+1. sin-preferencia
